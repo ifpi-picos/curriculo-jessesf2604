@@ -8,7 +8,7 @@ img{
 }
 
 h1, h3, p, h4, ul, h5, footer{
-    color: rgba(0, 255, 119, 0.739);
+    color: red;
 }
 
 .foto{
@@ -22,4 +22,31 @@ h1, h3, p, h4, ul, h5, footer{
     display: inline-block;
     vertical-align: middle;
     text-align: center;
+}
+
+.resumo{
+    width: 50%;
+    display: inline-block;
+}
+
+.formacoes{
+    border-top: 2px solid black; 
+}
+
+.experiencias{
+    border-top: 2px solid black; 
+}
+
+.infos{
+    border-top: 2px solid black; 
+}
+
+.social{
+    display: inline-block;
+ 
+}
+.social img{
+    display: inline-block;
+    vertical-align: middle;
+    width: 40px;
 }
